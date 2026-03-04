@@ -8,5 +8,5 @@ Various SQL concepts are implemented in this project, including SELECT queries, 
 
 Overall, this project demonstrates how SQL can be applied in real-world business scenarios to manage data efficiently and support better decision-making.
 
-PROJECT FILE :
-https://docs.google.com/document/d/1mKdaufhHP2R0WPrMgNkwddFZYkOQNmj-/edit?usp=drivesdk&ouid=108980696551511219410&rtpof=true&sd=true
+PROJECT FILE : https://docs.google.com/document/d/16sqC-gH0W7vQ4ZSL80KAaQFdf0tfMTuK/edit?usp=drivesdk&ouid=108980696551511219410&rtpof=true&sd=true
+
